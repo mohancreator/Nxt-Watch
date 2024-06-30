@@ -1,3 +1,3 @@
-Website Link:  https://mohancreator.github.io/ {copy and paste it}
+Website Link:  https://mohancreator.github.io/
 username: rahul
 password: rahul@2021
